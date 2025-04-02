@@ -1,8 +1,8 @@
-# V2rayNG - Advanced VPN Solution
+# Stand VPN - Advanced VPN Solution
 
-V2rayNG is a powerful, lightweight VPN client for Android that offers secure internet access through multiple protocols including V2ray and WireGuard.
+Stand VPN is a powerful, lightweight VPN client for Android that offers secure internet access through multiple protocols including V2ray and WireGuard.
 
-![App Connected Screen](./images/app_connected.png)
+![App Connected Screen](./s1.jpg)
 
 ## Features
 
@@ -17,17 +17,17 @@ V2rayNG is a powerful, lightweight VPN client for Android that offers secure int
 
 | Settings | Update Screen | Configurations | Connected |
 |---------|--------------|---------------|-----------|
-| ![Settings Screen](./images/settings_screen.png) | ![Update Required](./images/update_required.png) | ![Config Screen](./images/configurations.png) | ![Connected](./images/app_connected.png) |
+| ![Settings Screen](./s6.jpg) | ![Update Required](./s7.jpg) | ![Config Screen](./s4.jpg) | ![Connected](./s1.jpg) |
 
-### Additional Views
+### Additional App Views
 
-| Server Selection | Data Statistics | Quick Settings |
-|-----------------|-----------------|---------------|
-| ![Server List](./images/server_list.png) | ![Data Usage](./images/data_usage.png) | ![Quick Settings](./images/quick_settings.png) |
+| Server Selection | Traffic Rules | Connection Logs |
+|-----------------|--------------|-----------------|
+| ![Server Selection](./s3.jpg) | ![Local server](./s2.jpg) | ![Connection Logs](./s5.jpg) |
 
 ## Video Demonstration
 
-[![V2rayNG Demo Video](./images/video_thumbnail.png)](./videos/v2rayng_demo.mp4)
+[![Stand VPN Demo Video](./s1.jpg)](./Screen_VPN.mp4)
 
 ## Getting Started
 
@@ -67,6 +67,21 @@ The app tracks:
 - Android 6.0 or later
 - Internet connection
 - 20MB+ free storage space
+
+## Admin Dashboard
+
+Stand VPN includes a powerful administrative dashboard for server managers and network administrators.
+
+| Dashboard Overview | Version Management | Server Status | Traffic Analysis | Security Alerts |
+|-------------------|-----------------|---------------|------------------|-----------------|
+| ![Dashboard Overview](./ad1.png) | ![Version Management](./ad4.png) | ![Servers](./ad2.png) | ![Settings](./ad3.png) | ![Ads](./ad6.png) |
+
+The admin dashboard provides:
+
+- Real-time monitoring of connected clients
+- Bandwidth allocation and usage statistics
+- Server 
+- Security incident logging and alerts
 
 ## Troubleshooting
 
