@@ -68,21 +68,6 @@ The app tracks:
 - Internet connection
 - 20MB+ free storage space
 
-## Admin Dashboard
-
-Stand VPN includes a powerful administrative dashboard for server managers and network administrators.
-
-| Dashboard Overview | Version Management | Server Status | Settings | ads |
-|-------------------|-----------------|---------------|------------------|-----------------|
-| ![Dashboard Overview](./ad1.png) | ![Version Management](./ad4.png) | ![Servers](./ad2.png) | ![Settings](./ad3.png) | ![Ads](./ad6.png) |
-
-The admin dashboard provides:
-
-- Real-time monitoring of connected clients
-- Bandwidth allocation and usage statistics
-- Server 
-- Security incident logging and alerts
-
 ## Troubleshooting
 
 If you experience any issues:
