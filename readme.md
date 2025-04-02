@@ -99,5 +99,3 @@ This app helps protect your privacy by:
 - Preventing tracking from your ISP
 
 ---
-
-*Note: Replace all image and video placeholders with the actual files once they are available in the project folder.*
