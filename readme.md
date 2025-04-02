@@ -21,7 +21,7 @@ Stand VPN is a powerful, lightweight VPN client for Android that offers secure i
 
 ### Additional App Views
 
-| Server Selection | Traffic Rules | Connection Logs |
+| Server Selection | Local Servers | Connection Logs |
 |-----------------|--------------|-----------------|
 | ![Server Selection](./s3.jpg) | ![Local server](./s2.jpg) | ![Connection Logs](./s5.jpg) |
 
@@ -72,7 +72,7 @@ The app tracks:
 
 Stand VPN includes a powerful administrative dashboard for server managers and network administrators.
 
-| Dashboard Overview | Version Management | Server Status | Traffic Analysis | Security Alerts |
+| Dashboard Overview | Version Management | Server Status | Settings | ads |
 |-------------------|-----------------|---------------|------------------|-----------------|
 | ![Dashboard Overview](./ad1.png) | ![Version Management](./ad4.png) | ![Servers](./ad2.png) | ![Settings](./ad3.png) | ![Ads](./ad6.png) |
 
